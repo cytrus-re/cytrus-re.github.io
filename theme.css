@@ -1,5 +1,5 @@
 body {
-    background:rgb(102, 102, 102);
+    background:rgb(20, 20, 20);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white
 }
@@ -7,7 +7,7 @@ h1 {
     color: lightskyblue;
 }
 p {
-    color: rgb(20, 20, 20);
+    color: green
 }
 
 .button {
