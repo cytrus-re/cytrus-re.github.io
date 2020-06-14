@@ -30,8 +30,8 @@ p {
     border: 2px solid blue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
-  
-  joinDiscordServerButton {
+
+  .joinDiscordServerButton {
     background: blue;
     color: white;
     border: 2px solid blue;
