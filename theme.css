@@ -1,5 +1,5 @@
 body {
-    background:rgb(20, 20, 20);
+    background: rgb(20, 20, 20);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white
 }
@@ -31,7 +31,24 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
-  
-  
+footer {
+  background: #009be8;
+  padding: 1em 0;
+ }
 
-  
+footer nav ul {
+  margin-top: 0.5em;
+ }
+ 
+footer nav ul li {
+  display: inline;
+  margin: 0;
+ }
+
+footer nav ul li a {
+  color:#fff;
+  text-decoration:none;
+  text-transform: uppercase;
+  margin:0 1em 0 0;
+  font-size:1em;
+ }
