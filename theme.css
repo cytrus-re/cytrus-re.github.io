@@ -33,7 +33,9 @@ p {
 
 footer {
   background: #3A3A3A;
+  width: 100%;
   padding: 1em 0;
+  position: fixed;
  }
 
 footer nav ul {
