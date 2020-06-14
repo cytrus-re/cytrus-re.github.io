@@ -36,16 +36,16 @@ footer {
   width: 100%;
   padding: 1em 0;
   position: fixed;
- }
+}
 
 footer nav ul {
   margin-top: 0.5em;
- }
+}
  
 footer nav ul li {
   display: inline;
   margin: 0;
- }
+}
 
 footer nav ul li a {
   color: #fff;
@@ -53,4 +53,9 @@ footer nav ul li a {
   margin: 0 1em 0 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1em;
- }
+}
+
+permtext {
+  color: #B9FFF4;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
