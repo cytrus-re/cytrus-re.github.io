@@ -8,7 +8,7 @@ header {
   background: #3A3A3A;
   width: 100%;
   padding: 0 1em;
-  position: fixed;
+  position: relative;
 }
 
 header nav ul {
