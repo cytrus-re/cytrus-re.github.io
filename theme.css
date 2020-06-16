@@ -4,23 +4,23 @@ body {
     color: white
 }
 
-footer {
+header {
   background: #3A3A3A;
   width: 100%;
   padding: 1em 0;
   position: fixed;
 }
 
-footer nav ul {
+header nav ul {
   margin-top: 0.5em;
 }
  
-footer nav ul li {
+header nav ul li {
   display: inline;
   margin: 0;
 }
 
-footer nav ul li a {
+header nav ul li a {
   color: #fff;
   text-decoration: none;
   margin: 0 1em 0 0;
