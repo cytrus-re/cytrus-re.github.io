@@ -1,7 +1,7 @@
 body {
-    background: rgb(20, 20, 20);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white
+  background: rgb(20, 20, 20);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white
 }
 
 header {
@@ -26,7 +26,7 @@ header nav ul li a {
   text-decoration: none;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1em;
-  background-color: #115a8a; /* Green */
+  background-color: #00b3b3; /* turquoise */
   border: none;
   color: white;
   padding: 20px;
@@ -38,7 +38,7 @@ header nav ul li a {
   border-radius: 6px;
   transition: all 0.5s;
 }
-/* this is very broken i'm pretty lost in it, please fix it odyssey */ 
+/* this is very broken, I'm pretty lost in it, please fix it odyssey - midou */ 
 header nav ul li:after a {
   content: '\00bb';
   position: absolute;
@@ -54,7 +54,7 @@ header nav ul li:hover a {
 header nav ul li:after a:hover {
   padding-right: 25px;
 }
-/* this is very broken i'm pretty lost in it, please fix it odyssey*/
+/* end of "this is very broken i'm pretty lost in it, please fix it odyssey - midou" */
 
 
 permtext {
@@ -63,43 +63,39 @@ permtext {
 }
 
 h1 {
-    color: lightskyblue;
+  color: lightskyblue;
 }
 slogan {
-    color: green
+  color: green
 }
 
 .button {
-    border: none;
-    color: white;
-    padding: 24px 34px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+  border: none;
+  color: #00b3b3;
+  padding: 24px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
-  .cytrusbutton:hover {
+.cytrusbutton:hover {
   background-color: #4CAF50; 
   color: white;
 }
 
-  .cytrusbutton {
-    background: white;
-    color: black;
-    border: 2px rgb(35, 35, 35);
-    transition-duration: 0.4s;
-    border-radius: 2px;
-    font-size: 20px
-    height: 75px
-    width: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-
-
-
-
+.cytrusbutton {
+  background: white;
+  color: black;
+  border: 2px rgb(35, 35, 35);
+  transition-duration: 0.4s;
+  border-radius: 2px;   
+  font-size: 20px;
+  height: 75px;
+  width: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
