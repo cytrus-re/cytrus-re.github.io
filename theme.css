@@ -94,13 +94,13 @@ h5 {
   }
 
   .cytrusbutton {
-    background: white;
-    color: black;
+    background: teal;
+    color: white;
     border: 2px rgb(35, 35, 35);
     transition-duration: 0.4s;
     border-radius: 2px;   
     font-size: 20px;
     height: 75px;
-    width: 300px;
+    width: 275px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
