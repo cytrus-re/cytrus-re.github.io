@@ -12,6 +12,11 @@ header {
   position: relative;
 }
 
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+
 header nav ul {
   margin-top: 0.5em;
 }
