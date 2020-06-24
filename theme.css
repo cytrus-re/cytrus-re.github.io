@@ -1,3 +1,5 @@
+/* CSS Theme for cytrus-re site */
+/* Any questions? Ask Odyssey346#9848 on Discord or @Odyssey346 on telegram */
 body {
   background: rgb(20, 20, 20);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,6 +12,19 @@ header {
   padding: 5px 2px;
   border-radius: 4px;
   position: relative;
+}
+a { 
+  color: inherit; 
+ } /* This allows a HTML redirect to have the same color as the text before the redirect, used in the footer. Neat, ain't it? */
+
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100;
+  padding: 7px 7px;
+  border-radius: 0px;
+  background: gray;
 }
 
 .center {
@@ -44,6 +59,7 @@ header nav ul li a {
   transition: all 0.5s;
 }
 /* this is very broken, I'm pretty lost in it, please fix it odyssey - midou */ 
+/* well if it's fucking broken can you tell me what's broken on discord atleast because i dont see anything */
 header nav ul li:after a {
   content: '\00bb';
   position: absolute;
