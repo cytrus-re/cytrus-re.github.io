@@ -4,10 +4,8 @@ body {
   background: rgb(20, 20, 20);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: white;
-  /* the following code allows footer to be always at the bottom, no matter what display resolution. */
   display:flex; 
   flex-direction:column; 
-  /* end */
 }
 
 header {
@@ -29,7 +27,7 @@ footer {
   padding: 7px 7px;
   border-radius: 0px;
   height: 200px;
-  margin-top: auto; /* this allows the footer to be at the bottom at the page, without breaking on other resolutions. */
+  margin-top: auto;
   background: gray;
 }
 
