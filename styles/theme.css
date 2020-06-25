@@ -1,5 +1,5 @@
-/* CSS Theme for cytrus-re site */
-/* Any questions? Ask Odyssey346#9848 on Discord or @Odyssey346 on telegram */
+/* The CSS for Cytrus-RE's site! */
+/* Any questions? Ask Odyssey346#9848 or Rexowogamer#1183 on Discord or @Odyssey346 on Telegram. */
 body {
   background: rgb(20, 20, 20);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,13 +9,13 @@ body {
 header {
   background: #3A3A3A;
   width: 100%;
-  padding: 5px 2px;
+  padding: 5px 4px;
   border-radius: 4px;
   position: relative;
 }
 a { 
   color: inherit; 
- } /* This allows a HTML redirect to have the same color as the text before the redirect, used in the footer. Neat, ain't it? */
+} /* This allows a HTML redirect to have the same color as the text before the redirect, used in the footer. Neat, ain't it? */
 
 footer {
   position: fixed;
