@@ -3,9 +3,7 @@
 body {
   background: rgb(20, 20, 20);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: white;
-  display:flex; 
-  flex-direction:column; 
+  color: white
 }
 
 header {
@@ -27,7 +25,7 @@ footer {
   padding: 7px 7px;
   border-radius: 0px;
   height: 200px;
-  margin-top: auto;
+  margin-top: 800px;
   background: gray;
 }
 
