@@ -59,8 +59,7 @@ header nav ul li a {
   border-radius: 6px;
   transition: all 0.5s;
 }
-/* this is very broken, I'm pretty lost in it, please fix it odyssey - midou */ 
-/* well if it's fucking broken can you tell me what's broken on discord atleast because i dont see anything */
+
 header nav ul li:after a {
   content: '\00bb';
   position: absolute;
@@ -76,7 +75,7 @@ header nav ul li:hover a {
 header nav ul li:after a:hover {
   padding-right: 25px;
 }
-/* end of "this is very broken i'm pretty lost in it, please fix it odyssey - midou" */
+
 
 
 permtext {
