@@ -17,6 +17,12 @@ a {
   color: inherit; 
 } /* This allows a HTML redirect to have the same color as the text before the redirect, used in the footer. Neat, ain't it? */
 
+.divider{
+  width:5px;
+  height:auto;
+  display:inline-block;
+}
+
 footer {
   position: fixed;
   left: 0;
