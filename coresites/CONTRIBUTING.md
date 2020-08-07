@@ -1,3 +1,7 @@
+---
+permalink: /CONTRIBUTING.html
+---
+
 [index page](../)
 
 # Contributing 
