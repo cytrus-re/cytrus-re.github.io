@@ -1,4 +1,7 @@
+[index page](../)
+
 # Contributing 
+
 Thank you for trying to contriibute to Cytrus-RE. Here's a list of resources for you that you could help us out with!
 ### Code Wizardry
   [Cytrus-RE github repository](https://github.com/Cytrus-RE/cytrus-re)
