@@ -14,7 +14,7 @@ Cytrus-RE is a rewrite/adoption of [Cytrus](https://github.com/CelestialCrafter/
 # Features
 rexo will fill this up
 # Contribute
-[Link to contribution page](coresites/CONTRIBUTING.md)
+[Link to contribution page](coresites/CONTRIBUTING)
 # Additional Sites
 Links to some other sites in this repository
 
