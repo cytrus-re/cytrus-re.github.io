@@ -12,3 +12,5 @@ Note for above note: CS:GO items become untradable for 15 days after a trade. TF
 Note 2: Put this in trade description:
 
 "Terrific Tea Studios Donation: \*item value, preferrably in dollars*"
+
+Link: https://steamcommunity.com/tradeoffer/new/?partner=864406377&token=I4LFrokV
