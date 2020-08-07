@@ -1,3 +1,7 @@
+<!-- Rewrite done by Odyssey346 -->
+# Additional Sites
+Links to some other sites in this repository
+
 # Cytrus-RE
 A Discord bot you've always wanted. 
 
