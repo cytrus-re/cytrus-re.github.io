@@ -123,6 +123,18 @@ h5 {
     border-radius: 2px;   
     font-size: 20px;
     height: 75px;
-    width: 220px;
+    width: 230px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .redirectbutton {
+    background: teal;
+    color: white;
+    border: 2px rgb(35, 35, 35);
+    transition-duration: 0.4s;
+    border-radius: 2px;   
+    font-size: 20px;
+    height: 75px;
+    width: 300px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
