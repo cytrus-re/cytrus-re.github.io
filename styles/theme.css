@@ -1,7 +1,7 @@
 /* The CSS for Cytrus-RE's site! */
 /* Any questions? Ask Odyssey346#9848 or Rexowogamer#1183 on Discord or @Odyssey346 on Telegram. */
 body {
-  background: rgb(20, 20, 20);
+  background: #3A3A3A;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: white
 }
@@ -30,8 +30,14 @@ footer {
   width: 100;
   padding: 7px 7px;
   border-radius: 0px;
-  background: gray;
+  background: rgb(83, 80, 80);
+  color: beige;
   bottom: 0
+}
+
+#footera, #footera-1 {
+  color: chartreuse;
+  text-decoration: none;
 }
 
 .center {
@@ -48,12 +54,12 @@ header nav ul li {
   margin: 0;
 }
 
-header nav ul li a {
+header nav ul li a, #headerstuff-1, #headerstuff-2, #headerstuff-3, #headerstuff-4 {
   color: #fff;
   text-decoration: none;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1em;
-  background-color: #00b3b3; /* turquoise */
+  background-color: teal; /* turquoise */
   border: none;
   color: white;
   padding: 20px;
@@ -92,8 +98,8 @@ permtext {
 h1 {
   color: lightskyblue;
 }
-h5 {
-  color: green
+.cytrusslogan {
+  color: lightgreen;
 }
 
 .button {
